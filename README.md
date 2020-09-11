@@ -1,6 +1,6 @@
 Jung Sang Hun
 - Android Developer in Madrascheck(Cooperation Tool Flow)
-- Would you be happy(우주비행) team member
+- Would you 비행(우주비행) team member
 - Basketball king
 - LOL Platinum like Dia
 
