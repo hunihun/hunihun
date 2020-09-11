@@ -4,7 +4,7 @@ Jung Sang Hun
 - Basketball king
 - LOL Platinum like Dia
 
-If you want to know more <a href="https://github.com/hunihun/resume" rel="nofollow">about me</a>...
+If you want to know more <a href="https://github.com/hunihun/resume" rel="nofollow">about me</a>
 <!--
 **hunihun/hunihun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
