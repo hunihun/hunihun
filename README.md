@@ -1,5 +1,5 @@
 Jung Sang Hun
-- Android Developer in Madrascheck(Cooperation Tool Flow)
+- Android Developer in Lifegoeson(Laundrygo)
 - Would you 비행(우주비행) team member
 - Basketball king
 - LOL Platinum like Dia
